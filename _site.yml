@@ -1,0 +1,24 @@
+name: "Nature Positive Solutions"
+output_dir: "."
+navbar:
+  title: "Nature Positive Solutions"
+  left:
+  
+    - text: "Home"
+      href: index.html 
+    - text: "¿Why Nature?"
+      href: Nature_P.html
+    - text: "Colombia"
+      href: Colombia.html
+    - text: "Kenia"
+      href: Kenia.html
+    - text: "Burkina Faso"
+      href: Burkina_Faso.html
+    - text: "India"
+      href: India.html
+    - text: "Vietnam"
+      href: Vietnam.html
+output:
+  html_document:
+    theme: flatly
+    highlight: zenburn
